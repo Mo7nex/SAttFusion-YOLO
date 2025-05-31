@@ -1,6 +1,6 @@
 # GTSDB_motion
 
-path: /home/ipmi/DeepLearning/datasets/GTSDB/GTSDB_513_motion
+path: datasets/GTSDB_513_motion
 train: images/train 
 val: images/val 
 test: images/test 
