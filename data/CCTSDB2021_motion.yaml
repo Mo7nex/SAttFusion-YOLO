@@ -1,6 +1,6 @@
 # CCTSDB2021
 
-path: /home/ipmi/DeepLearning/datasets/CCTSDB2021/CCTSDB2021_motion
+path: datasets/CCTSDB2021_motion
 train: images/train 
 val: images/val 
 test: images/test 
