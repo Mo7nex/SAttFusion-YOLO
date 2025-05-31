@@ -17,9 +17,9 @@ if __name__ == '__main__':
                 device='0',
                 # optimizer='SGD', # using SGD
                 # patience=0, # close earlystop
-                # resume=True, # 断点续训,YOLO初始化时选择last.pt
+                # resume=True, 
                 # amp=False, # close amp
                 # fraction=0.2,
                 project='runs_light/GTSDB_513/original',
-                name='yolov8s-ASF-C2f-Faster',
+                name='yolov8s-HFAM-LFAU-CSRN',
                 )
