@@ -1,6 +1,6 @@
 # GTSDB
 
-path: datasets/GTSDB_513
+path: datasets/GTSDB
 train: images/train 
 val: images/val 
 test: images/test 
