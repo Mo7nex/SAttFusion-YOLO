@@ -2,7 +2,6 @@ import warnings
 warnings.filterwarnings('ignore')
 from ultralytics import YOLO
 
-# 训练参数官方详解链接：https://docs.ultralytics.com/modes/train/#resuming-interrupted-trainings:~:text=a%20training%20run.-,Train%20Settings,-The%20training%20settings
 
 if __name__ == '__main__':
     model = YOLO('ultralytics/cfg/models/yolov8-HFAM-LFAU-CSRN.yaml')
