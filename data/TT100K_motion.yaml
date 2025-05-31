@@ -1,6 +1,6 @@
 # TT100K
 
-path: /home/ipmi/DeepLearning/datasets/TT100K/tt100k_45_motion 
+path: datasets/TT100K_motion 
 train: images/train 
 val: images/val 
 test: images/test 
