@@ -232,5 +232,4 @@ def get_params():
 
 if __name__ == '__main__':
     model = yolov8_heatmap(**get_params())
-    # model(r'/root/dataset/dataset_visdrone/VisDrone2019-DET-test-dev/images/9999963_00000_d_0000020.jpg', 'result')
-    model(r'/root/dataset/dataset_visdrone/VisDrone2019-DET-test-dev/images', 'result')
+    model(r'hearmap', 'result')
