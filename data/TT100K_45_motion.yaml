@@ -1,0 +1,55 @@
+# TT100K
+
+path: /home/ipmi/DeepLearning/datasets/TT100K/tt100k_45_motion 
+train: images/train 
+val: images/val 
+test: images/test 
+
+nc: 45
+
+names: 
+    0: il60
+    1: pl100
+    2: pl60
+    3: i4l
+    4: p19
+    5: i2r
+    6: ip
+    7: pl80
+    8: p5
+    9: p12
+    10: pl120
+    11: pg
+    12: p10
+    13: pl30
+    14: w59
+    15: p27
+    16: pm20
+    17: pn
+    18: ph5
+    19: p6
+    20: ph4.5
+    21: pl40
+    22: ph4
+    23: pl20
+    24: il80
+    25: i2
+    26: p26
+    27: pne
+    28: i5
+    29: w55
+    30: pr40
+    31: p3
+    32: pm55
+    33: pl5
+    34: pl50
+    35: il100
+    36: i4
+    37: w32
+    38: p23
+    39: p13
+    40: w57
+    41: pl70
+    42: w13
+    43: p11
+    44: pm30

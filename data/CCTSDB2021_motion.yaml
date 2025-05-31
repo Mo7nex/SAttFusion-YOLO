@@ -1,0 +1,13 @@
+# CCTSDB2021
+
+path: /home/ipmi/DeepLearning/datasets/CCTSDB2021/CCTSDB2021_motion
+train: images/train 
+val: images/val 
+test: images/test 
+
+nc: 3
+
+names: 
+    0: mandatory
+    1: prohibitory
+    2: warning
