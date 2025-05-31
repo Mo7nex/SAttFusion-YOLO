@@ -1,6 +1,6 @@
 # GTSDB
 
-path: /home/ipmi/DeepLearning/datasets/GTSDB/GTSDB_513
+path: datasets/GTSDB_513
 train: images/train 
 val: images/val 
 test: images/test 
