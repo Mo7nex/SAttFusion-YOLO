@@ -4,6 +4,32 @@ Traffic sign detection
 
 # 检测效果
 
+# 目标检测模型效果图对比（4图一行布局）
+
+## SAttFusion-YOLO
+<img src="https://github.com/user-attachments/assets/88fc2b0b-360b-4130-b790-41706efd0016" style="width:22%; margin:0 1%; border:none;" />
+<img src="https://github.com/user-attachments/assets/ad628bdf-ab71-42fb-be30-13e799d26ebb" style="width:22%; margin:0 1%; border:none;" />
+<img src="https://github.com/user-attachments/assets/70e4764e-f0cc-4608-b40b-6303a67f6af1" style="width:22%; margin:0 1%; border:none;" />
+<img src="https://github.com/user-attachments/assets/1d8fb8db-d622-4de2-a97a-f512a2d72a06" style="width:22%; margin:0 1%; border:none;" />
+
+## YOLOv10
+<img src="https://github.com/user-attachments/assets/d5139899-dc4d-436b-a754-57d643d036d5" style="width:22%; margin:0 1%; border:none;" />
+<img src="https://github.com/user-attachments/assets/3210aea8-550f-48e9-965a-4ac0024a1ed7" style="width:22%; margin:0 1%; border:none;" />
+<img src="https://github.com/user-attachments/assets/7011ba50-558e-4069-a823-19d9d247b37f" style="width:22%; margin:0 1%; border:none;" />
+<img src="https://github.com/user-attachments/assets/455d6875-ae11-4aca-8dfb-0f02ebc05870" style="width:22%; margin:0 1%; border:none;" />
+
+## YOLOv8
+<img src="https://github.com/user-attachments/assets/00568b3f-9f24-4a4b-980e-e13b2596f4df" style="width:22%; margin:0 1%; border:none;" />
+<img src="https://github.com/user-attachments/assets/8f6127cc-b06c-40bb-a482-03f442aff828" style="width:22%; margin:0 1%; border:none;" />
+<img src="https://github.com/user-attachments/assets/960ffa0f-6c4b-486e-90ca-86c0027f30ab" style="width:22%; margin:0 1%; border:none;" />
+<img src="https://github.com/user-attachments/assets/60775e71-96c3-4c5c-897e-0b1aa2ec2423" style="width:22%; margin:0 1%; border:none;" />
+
+## YOLOv5
+<img src="https://github.com/user-attachments/assets/2a6487b6-be88-440b-9603-81f2590b3233" style="width:22%; margin:0 1%; border:none;" />
+<img src="https://github.com/user-attachments/assets/084e8bfe-fc91-4cb5-9b47-4754feb88f8c" style="width:22%; margin:0 1%; border:none;" />
+<img src="https://github.com/user-attachments/assets/75b70265-3010-45ee-8507-22724eb10498" style="width:22%; margin:0 1%; border:none;" />
+<img src="https://github.com/user-attachments/assets/9b4a98c4-b5d7-4747-8b64-589b9061abc6" style="width:22%; margin:0 1%; border:none;" />
+
 ## SAttFusion-YOLO
 
 ![mnx](https://github.com/user-attachments/assets/88fc2b0b-360b-4130-b790-41706efd0016)
